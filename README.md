@@ -13,15 +13,16 @@ You will have to remove a colour and then add a new colours.
 There are four types (representing qualities) represented by a set of colours.
 For example: red, green, blue and yellow.
 Each unit of these teams will have to be saved in a new png file.** \
-Requirements: \
+Requirements:
 * Open file as .JPG
 * Save new file as .PNG
 * Change all of one colour e.g. red, to all of the other colours e.g. green, blue and yellow
+
 Image used created by https://www.gamedevmarket.net/member/mobile-assets-brush/ licence - GameDev Markets standard license
 
 Contract #5 - Colour Blindness User Interface Analysis Tool - 
 
-## h2 Licence - MIT \
+## h2 Licence - MIT 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
