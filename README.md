@@ -20,7 +20,7 @@ Requirements:
 
 Image used created by https://www.gamedevmarket.net/member/mobile-assets-brush/ licence - GameDev Markets standard license
 
-Contract #5 - Colour Blindness User Interface Analysis Tool - [Sam Hendrickx] (https://github.com/Cocoparrot/Tinkering_Graphics_SamHendrickx)
+Contract #5 - Colour Blindness User Interface Analysis Tool - [Sam Hendrickx](https://github.com/Cocoparrot)
 
 ### Licence - MIT 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
