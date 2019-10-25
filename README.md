@@ -1,6 +1,7 @@
 ## Tinkering graphics task, Team 9.
 
 Contract #1 - Platformer Tile Generator - 
+Tarik Sabin [Repo link](https://github.com/Tarik458/Tinkering-Graphics-Tarik)
 
 Contract #2 - Platformer Level Generator - 
 
