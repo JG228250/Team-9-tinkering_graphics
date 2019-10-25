@@ -1,5 +1,12 @@
 Program which can take in an image and reskin the entity it to red, green, blue, and yellow
-The original .JPG image should be placed in 'contract4Images' folder and the new .PNG images should be placed thre also
+The program will let you choose from which base colour you want to change from (Only Red or Green currently)
+### Instructions:
+There are 2 folders, Contract4Images and ImageChange. Each folder has one image in.
+Contract4Images is where the image you **DON'T** want changed should be placed
+ImageChange is where you put the image you **DO** want to change
+When prompted, enter in the number of the base colour inside of ImageChange
+Your new .png images will them be placed inside of Contract4Images
+
 
 Link to repository - https://github.com/JG228250/Team-9-tinkering_graphics
 
